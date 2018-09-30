@@ -1,0 +1,93 @@
+
+body {
+	margin: 0 auto;
+	color: #222323;
+	background-color: #FFFBFF;
+	font-family: 'Montserrat', sans-serif;
+}
+svg {
+	width: auto;
+	height: auto;
+}
+h1 {
+	font-family: Helvetica;
+	font-size: 170%;
+	margin: 0;
+}
+a {
+	color: #222323;
+	text-decoration: underline;
+}
+
+.landing-page{
+	width: 100%;
+	height: 100vh;	
+}
+
+.intro {
+	margin: 6% 0 6% 36%;
+}
+.containery-container {
+	display: block;
+}
+
+/* left side */
+.skills-venn {
+	width: 26%;
+	margin: 0 0 0 12%;
+	display: inline-block;
+}
+
+.skills-venn g {
+	cursor: pointer;
+}
+/* right side */
+.container-ception {
+	width: 45%;
+	height: 50%;
+	margin: 5% 0 0 8%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.text {
+	padding: 1%;
+	font-size: 85%;
+	line-height: 1.7;
+}
+
+.container {
+	text-align: center;
+	width: 30%;
+	margin-left: 50%;
+}
+
+
+.portfolio-links p {
+	font-size: 72%;
+	margin-top: 7%;
+	text-align: center;
+}
+
+.link {
+	width: 25%;
+	margin: 0 auto;
+	padding: 0 4% 0 4%;
+	display: inline-block;
+}
+
+.wrapper {
+	width: 4.5%;
+	display: inline-block;
+	padding: 0 2% 0 2%;
+	vertical-align: middle;
+}
+
+
+
+
+
+
+
+
+
